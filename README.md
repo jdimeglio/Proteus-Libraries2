@@ -1,18 +1,6 @@
 # 🌟 **Proteus Libraries** 🌟
 
-<p align="center">
-<img src="https://github.com/gmostofabd/Proteus-Libraries/blob/744c6c31d987f8810724fba236198f56e6f68f24/assets/Proteus_Libraries_Thumbnail_1.png" alt="Real World look" style="width: 70%; height: auto;" />
-</p>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/be4d9ec7-f65c-4112-a225-0b7a4d3d917f" alt="Steps of Adding Proteus Library" style="width: 70%; height: auto;" />
-</p>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/35050cde-3360-4d2e-ae23-ab015865d7ca" alt="Steps of Adding Proteus Library" style="width: 70%; height: auto;" />
-</p>
-
----
+This has been forked from https://github.com/get2yomi/Proteus-Libraries2
 
 Before diving into the details of **Proteus Libraries**, it’s assumed you have a foundational understanding of **electronics design** and **PCB development**. However, let’s take a quick review of the **Proteus Design Suite** basics to ensure we’re on the same page.
 
@@ -73,9 +61,7 @@ Libraries in Proteus can be obtained from:
 ---
 
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
-    <img src="https://github.com/gmostofabd/Proteus-Libraries/blob/7d33b14fbae93d9d05113027c16cbb15cd9bd64c/assets/ISIS.png" alt="Proteus ISIS" style="width: 30%; height: auto;" />
-    <img src="https://github.com/gmostofabd/Proteus-Libraries/blob/7d33b14fbae93d9d05113027c16cbb15cd9bd64c/assets/ares.png" alt="Proteus ARES" style="width: 30%; height: auto;" />
-    <img src="https://github.com/gmostofabd/Proteus-Libraries/blob/7d33b14fbae93d9d05113027c16cbb15cd9bd64c/assets/CAD.png" alt="3D CAD Models" style="width: 30%; height: auto;" />
+
 <p style="font-size: 18px; font-weight: bold;">Proteus Simulation Models</p>
 <p style="font-size: 18px; font-weight: bold;">PCB Footprints</p>
 <p style="font-size: 18px; font-weight: bold;">3D CAD Models</p>   
@@ -189,15 +175,4 @@ C:\ProgramData\Labcenter Electronics\Proteus 8 Professional\DATA
 4. **Preview the 3D Model**  
    Use **3D Visualization** to verify the alignment and accuracy of the model.
 
----
-#    🌐 Explore More Resources
-If you're interested in learning more about Proteus, electronics design, or embedded systems, be sure to check out the following resources:
 
-📹 YouTube: @melabBd
-📌 Pinterest:
-📸 Instagram:
-🌐 Google Site:
-📝 Blogs:
-<p align="center"> <a href="https://www.youtube.com/@melabBd" target="_blank"> <img src="https://via.placeholder.com/150?text=YouTube" alt="YouTube" style="margin: 10px;" /> </a> <a href="https://www.pinterest.com/gmostofabd0" target="_blank"> <img src="https://via.placeholder.com/150?text=Pinterest" alt="Pinterest" style="margin: 10px;" /> </a> <a href="https://www.instagram.com/gmostofabd" target="_blank"> <img src="https://via.placeholder.com/150?text=Instagram" alt="Instagram" style="margin: 10px;" /> </a> <a href="https://melabbd.google.site" target="_blank"> <img src="https://via.placeholder.com/150?text=Google+Site" alt="Google Site" style="margin: 10px;" /> </a> <a href="https://melabbd.blogspot.com" target="_blank"> <img src="https://via.placeholder.com/150?text=Blogs" alt="Blogs" style="margin: 10px;" /> </a> </p>
-
-By following these resources, you can expand your knowledge in electronics design, PCB development, and the use of Proteus libraries. Feel free to reach out via these platforms if you have any questions or suggestions! Happy designing!
